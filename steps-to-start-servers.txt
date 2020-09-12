@@ -1,0 +1,23 @@
+my folder structure in my system
+server app
+e:\triple-tech\issue-tracking\trackapp-server
+client app
+e:\triple-tech\issue-tracking\trackapp2
+data 
+e:\triple-tech\issue-tracking\data
+
+
+
+starting up mongo db server
+1. in command prompt 
+goto data path i.e 
+e:\triple-tech\issue-tracking\data 
+folder
+type the command
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe" --dbpath="e:\triple-tech\issue-tracking\data\db"
+
+starting up node app
+node app.js
+
+startup up angular app
+ng serve
